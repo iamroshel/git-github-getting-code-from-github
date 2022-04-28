@@ -130,11 +130,6 @@ assigned to the "remote name" (`origin`) is the same thing you copied from the
 GitHub web interface. This confirms that the _remote repository_ you _cloned_
 automatically set up a _remote name_ called `origin`.
 
-Note also that the repo is listed twice: once for _fetch_ and once for _push_.
-In many cases, these two remotes will point to the same repo on GitHub, but
-there are some circumstances where you might want to set them up to point to
-different repos.
-
 **Note**: As you may have noticed, the Python repo is quite large. You might
 want to delete it before you move on by running:
 
@@ -173,13 +168,6 @@ to your fork of the repo on GitHub, you can submit a _pull request_ to the repo
 you forked from. Someone in that organization will (hopefully) review your pull
 request and decide whether to _merge_ it in to the official repo. You will learn
 more about pull requests and merging a bit later in this module.
-
-**Note**: Using the fork and clone workflow is one situation where you might
-want to set up different remote paths for _fetching_ and _pushing_. If you've
-forked someone else's repo, your fork will reflect the state of the repo at the
-time you forked it. If you want to make sure the code you're working on reflects
-the most current version of the original repo, you might set your local repo to
-_fetch_ from that original repo while still _pushing_ to your fork.
 
 ## Conclusion
 
