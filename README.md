@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand the different ways that GitHub can be useful.
+- Explain the different ways that GitHub can be useful.
 - Copy a repository to your local machine with `git clone`.
 - List remotes with `git remote`.
 - Duplicate other organizations' repositories into your own GitHub account with
@@ -168,6 +168,15 @@ to your fork of the repo on GitHub, you can submit a _pull request_ to the repo
 you forked from. Someone in that organization will (hopefully) review your pull
 request and decide whether to _merge_ it in to the official repo. You will learn
 more about pull requests and merging a bit later in this module.
+
+## Check for Understanding
+
+Before moving on to the next lesson, check for your understanding of this material
+by answering the following questions in your own words:
+
+- What are 3 things using GitHub enables you to do?
+- Under what circumstances might you fork a repo before cloning it to your local
+  machine?
 
 ## Conclusion
 
