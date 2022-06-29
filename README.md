@@ -174,7 +174,7 @@ more about pull requests and merging a bit later in this module.
 Before moving on to the next lesson, check for your understanding of this material
 by answering the following questions in your own words:
 
-- What are 3 things using GitHub enables you to do?
+- What are three things using GitHub enables you to do?
 - Under what circumstances might you fork a repo before cloning it to your local
   machine?
 
