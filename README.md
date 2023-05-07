@@ -1,4 +1,4 @@
-# Getting Code with GitHub
+# Getting Code with GitHub c
 
 ## Learning Goals
 
